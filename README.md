@@ -1,1 +1,2 @@
-# meu-primeiro-repositorio
+codigo.py
+print("meu repositorio")
